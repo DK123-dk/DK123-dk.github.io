@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>记录我域名ICP备案流程</title>
+    <link href="/2024/11/22/2024-11-22/"/>
+    <url>/2024/11/22/2024-11-22/</url>
+    
+    <content type="html"><![CDATA[<h1 id="记录我域名ICP备案流程"><a href="#记录我域名ICP备案流程" class="headerlink" title="记录我域名ICP备案流程"></a>记录我域名ICP备案流程</h1><p>这几天我在阿里云上购买了一个.cn的顶级域名 打算对其进行ICP备案<br><img src="/img/2024.11.22/2024.11.22-1.png" alt="1"><br>这是我的备案订单 目前正在管局审核中 大概20个工作日告知结果</p><p>接下来 就记录一下我备案过程</p><h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>首先需要准备备案的主体信息 也就是个人信息(分为个人备案和企业备案 这里说个人备案)和 主办单位负责人信息 也是个人信息 </p><p>其次就是网站信息 细分为:<br>网站名称(各个地区的网站名称规范不一样 详细规范要查阅自己所在地区的规范)</p><p>其次是网站内容和网站语言</p><p>总而言之就是一大堆信息需要填写 要注意的是 一定要按照规范填写 不然过不了审核 会打回重新填写 具体规范需要查阅相关资料 阿里云在填写备案信息的时候 会有文档提示 如果不知道怎么填写 可以参考相关文档 这里我就不做过多赘述</p><p>信息填写完毕后 就可以提交审核了</p><h2 id="提交审核"><a href="#提交审核" class="headerlink" title="提交审核"></a>提交审核</h2><p>信息填写完毕后 就可以提交审核阿里云审核 这个过程大概就是一个工作日左右 如果你提交的信息有问题或者不符合规范 阿里云会给你打电话 指导你进行更改 如果没问题 那就会直接提交管局审核 这个时候我们需要进行短信验证</p><h3 id="短信核验"><a href="#短信核验" class="headerlink" title="短信核验"></a>短信核验</h3><p>阿里云通过审核后 会给主板单位负责人的手机号码发送一条验证码 这个时候我就要登录<a href="https://beian.miit.gov.cn/#/SmsCheck">工业和信息化部</a>进行短信核验:<br><img src="/img/2024.11.22/2024.11.22-2.png" alt="2"><br>提交过后 短信核验部分就结束了</p><h2 id="等待"><a href="#等待" class="headerlink" title="等待"></a>等待</h2><p>提交过后 短信核验部分就结束了 现在我们就只能等待了 大概20个工作日左右 就会告知审核结果 如果审核通过 咱们就ICP备案就完成百分之90了</p><h2 id="网站开通"><a href="#网站开通" class="headerlink" title="网站开通"></a>网站开通</h2><p>1.网站开通后，请在网站首页底部中间位置放置您的ICP备案号并链接至”<a href="https://beian.miit.gov.cn"./">https://beian.miit.gov.cn&quot;。</a></p><p>2.备案成功之后可能信息同步延迟，如您已收到管局提示，辛苦您耐心等待。</p><p>3.服务在开通之日起30日内请登录<a href="https://beian.mps.gov.cn/#/">全国互联网安全管理平台</a>提交公安联网备案申请。获取<a href="https://help.aliyun.com/zh/icp-filing/basic-icp-service/the-public-security-network-for-the-record-information-fill-in-the-guide?spm=5176.beian-pc.icp_beian.34.f0d079feeAE1bI">《公安备案信息填写指南》</a>，或者通过<a href="https://wanwang.aliyun.com/qualificationrec/icpassistant?spm=5176.beian-pc.icp_beian.35.f0d079feeAE1bI">“公安备案助手”</a>协助您完成申请。<br><img src="/img/2024.11.22/2024.11.22-3.png" alt="3"></p><h1 id="备案完成"><a href="#备案完成" class="headerlink" title="备案完成"></a>备案完成</h1><p>至此我们的域名ICP备案就完成了</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>技术</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>如何使用WordPress搭建一个个人博客？</title>
     <link href="/2024/11/20/2024-11-20-1/"/>
     <url>/2024/11/20/2024-11-20-1/</url>
